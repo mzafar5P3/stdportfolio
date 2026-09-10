@@ -4,7 +4,7 @@
 
 - Hello there! My name is Zafar Mutayyib. I was born on 14 December 2006. I have interests in learning new things.
 
-#ACADEMIC BACKGROUND
+##ACADEMIC BACKGROUND
 - 10TH : 9.8 CGPA
 - Inter : 9.5
 - B.Tech : 8.9
