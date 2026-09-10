@@ -16,8 +16,8 @@
 - JAVA
 
 ##PROJECTS
--[RURAL DEVELOPMENT](https://www.rural.gov.in/)
--[JENKINS](https://github.com/mzafar5P3/jenkins-polling-demo.git)
+-RURAL DEVELOPMENT (https://www.rural.gov.in/)
+-JENKINS (https://github.com/mzafar5P3/jenkins-polling-demo.git)
 
 ##CERTIFICATIONS
 -DJANGO
